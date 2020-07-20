@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there 👋🏼
 
 I’m a senior software architect and engineer with broad experience of large‑scale web‑based application design, development, integration, hosting, testing, security and maintenance.
 
